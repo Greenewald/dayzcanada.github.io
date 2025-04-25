@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DayZ Canada</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: #0a0a0a url('https://images.unsplash.com/photo-1601582586186-3e2e7b24c557') no-repeat center center fixed;
+      background-size: cover;
+      color: #f2f2f2;
+      text-align: center;
+    }
+    .container {
+      padding: 100px 20px;
+      background-color: rgba(0, 0, 0, 0.6);
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 0.3em;
+    }
+    p {
+      font-size: 1.3em;
+      margin-bottom: 1em;
+    }
+    a {
+      color: #fff;
+      background: #c1272d;
+      padding: 12px 24px;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+      transition: background 0.3s;
+    }
+    a:hover {
+      background: #9e1f23;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to DayZ Canada</h1>
+    <p>Survive the North. Join us in the Winter Chernarus Experiment.</p>
+    <a href="https://discord.gg/your-discord-invite" target="_blank">Join Our Discord</a>
+  </div>
+</body>
+</html>
